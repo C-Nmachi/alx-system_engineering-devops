@@ -1,0 +1,1 @@
+Shell redirecttion readme
